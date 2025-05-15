@@ -5,6 +5,7 @@
 This project automates the process of translating static HTML web pages into multiple languages using the **Microsoft Azure Translator API**.
 
 It parses HTML content using **BeautifulSoup** and translates the textual content (e.g., headings, paragraphs, spans, titles, and anchor texts) into target languages like **English (en)**, **French (fr)**, and **Spanish (es)**.
+Note: Replace the code with your Azure credencials.
 
 ### 🔧 Key Features
 
@@ -30,3 +31,5 @@ multilingual-website/
 ├── inject_script.py         # Python script to add language.js script to translated files
 └── scripts/
     └── language.js          # JavaScript for dynamic behavior (optional)
+
+
